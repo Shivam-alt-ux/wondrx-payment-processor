@@ -1,4 +1,4 @@
-# WONDRx Java Backend Intern Assignment
+# WONDRx Java Backend 
 ## Idempotent Payment/Wallet Event Processor
 
 An internal transaction ledger service that safely absorbs duplicate
